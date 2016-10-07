@@ -1,0 +1,12 @@
+.DS_Store
+*.bak
+*.iml
+*.iml
+*.swp
+*~
+.idea
+.vscode
+.mvn/node
+bundle.*
+node_modules/
+target
