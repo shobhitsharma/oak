@@ -4,8 +4,8 @@
 *.iml
 *.swp
 *~
-.idea
-.vscode
+.idea/
+.vscode/
 .mvn/node
 bundle.*
 node_modules/
