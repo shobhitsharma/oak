@@ -27,7 +27,7 @@ brutally slow.
 mvn
 
 # or, from scratch
-.mvnw
+./mvnw
 
 # init webpack module
 npm start
