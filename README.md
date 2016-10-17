@@ -18,12 +18,20 @@ Architecture for Java backend with React in client-side.
 
 ## Development
 
-Execute `mvn` if you have Maven already installed, or `./mvnw` if you don't. You'll need
-[Java8 installed](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) either way at
+You'll need [Java8 installed](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) either way at
 a minimum version of `1.8.0_65`. Older versions have a bug that makes rendering
 brutally slow.
 
-Run webpack in hot-module reloading mode with: `npm start`.
+```bash
+# if maven installed
+mvn
+
+# or, from scratch
+.mvnw
+
+# init webpack module
+npm start
+```
 
 ## Resources
 
